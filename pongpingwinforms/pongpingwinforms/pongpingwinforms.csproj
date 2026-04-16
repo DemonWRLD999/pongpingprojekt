@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\ZSP1\Desktop\pongpingformcs.cs" Link="pongpingformcs.cs" />
+  </ItemGroup>
+
 </Project>

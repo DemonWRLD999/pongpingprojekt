@@ -1,0 +1,6 @@
+C:\Users\ZSP1\source\repos\pongpingwinforms\pongpingwinforms\obj\Debug\net10.0-windows\pongpingwinforms.Form1.resources
+C:\Users\ZSP1\source\repos\pongpingwinforms\pongpingwinforms\obj\Debug\net10.0-windows\pongpingwinforms.csproj.GenerateResource.cache
+C:\Users\ZSP1\source\repos\pongpingwinforms\pongpingwinforms\obj\Debug\net10.0-windows\pongpingwinforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZSP1\source\repos\pongpingwinforms\pongpingwinforms\obj\Debug\net10.0-windows\pongpingwinforms.AssemblyInfoInputs.cache
+C:\Users\ZSP1\source\repos\pongpingwinforms\pongpingwinforms\obj\Debug\net10.0-windows\pongpingwinforms.AssemblyInfo.cs
+C:\Users\ZSP1\source\repos\pongpingwinforms\pongpingwinforms\obj\Debug\net10.0-windows\pongpingwinforms.csproj.CoreCompileInputs.cache
